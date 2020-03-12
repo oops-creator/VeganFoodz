@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VeganFoodz</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User Mouser</string>
+    <string name="nav_header_subtitle">See profile</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_starred">Starred</string>
+    <string name="menu_browse">Browse</string>
+    <string name="menu_tools">Account Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_support">Support</string>
+</resources>
